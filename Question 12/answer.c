@@ -35,6 +35,7 @@ Graph *createGraph(int n) {
 
 void printGraph(Graph *g) {
   int i;
+  printf("Displaying Graph\n");
   for (i = 1; i <= g->n; i++) {
     Edge *e = g->edges[i];
     printf("%d: ", i);

@@ -15,4 +15,4 @@ This Repository consists of a Program Code in C Language as described by our cur
 10. Implementation of Circular Queue using Linked List.
 11. Implementation of Tree Structures, Binary Tree, Tree Traversal, Binary Search Tree, Insertion and Deletion in
 BST.
-12. Graph Implementation, BFS, DFS, Minimum cost spanning tree, shortest path algorithm.
+12. Graph Implementation, BFS, DFS, Minimum cost spanning tree, shortest path algorithms.
